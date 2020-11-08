@@ -11,3 +11,5 @@
 
 ![Matheus Reis' github stats](https://github-readme-stats.vercel.app/api?username=math-reis)
 
+![Matheus Reis' github stats](https://github-readme-stats.vercel.app/api?username=math-reis&show_icons=true)
+
