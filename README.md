@@ -9,9 +9,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=math-reis)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=math-reis)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=math-reis&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=math-reis&layout=compact)
 
 
 
