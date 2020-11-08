@@ -9,7 +9,17 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Matheus Reis' github stats](https://github-readme-stats.vercel.app/api?username=math-reis)
+![Matheus Reis' github stats](https://github-readme-stats.vercel.app/api?username=math-reis&show_icons=true)
 
-![Matheus Reis' github stats](https://github-readme-stats.vercel.app/api?username=math-reis&count_private=true&show_icons=true)
+![Matheus Reis' github stats](https://github-readme-stats.vercel.app/api?username=math-reis&theme=prussian&show_icons=true)
+
+![Matheus Reis' github stats](https://github-readme-stats.vercel.app/api?username=math-reis&theme=cobalt&show_icons=true)
+
+![Matheus Reis' github stats](https://github-readme-stats.vercel.app/api?username=math-reis&theme=vue-dark&show_icons=true)
+
+![Matheus Reis' github stats](https://github-readme-stats.vercel.app/api?username=math-reis&theme=material-palenight&show_icons=true)
+
+![Matheus Reis' github stats](https://github-readme-stats.vercel.app/api?username=math-reis&theme=react&show_icons=true)
+
+![Matheus Reis' github stats](https://github-readme-stats.vercel.app/api?username=math-reis&theme=blueberry&show_icons=true)
 
