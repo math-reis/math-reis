@@ -9,5 +9,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=math-reis)](https://github.com/anuraghazra/github-readme-stats)
+![Matheus Reis's github stats](https://github-readme-stats.vercel.app/api?username=math-reis)
 
