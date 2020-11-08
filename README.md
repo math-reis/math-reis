@@ -1,4 +1,4 @@
-### Hi there 👋
+![Matheus Reis' github stats](https://github-readme-stats.vercel.app/api?username=math-reis&theme=react&show_icons=true)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -9,17 +9,11 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Matheus Reis' github stats](https://github-readme-stats.vercel.app/api?username=math-reis&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=math-reis)]
 
-![Matheus Reis' github stats](https://github-readme-stats.vercel.app/api?username=math-reis&theme=prussian&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=math-reis&layout=compact)]
 
-![Matheus Reis' github stats](https://github-readme-stats.vercel.app/api?username=math-reis&theme=cobalt&show_icons=true)
 
-![Matheus Reis' github stats](https://github-readme-stats.vercel.app/api?username=math-reis&theme=vue-dark&show_icons=true)
 
-![Matheus Reis' github stats](https://github-readme-stats.vercel.app/api?username=math-reis&theme=material-palenight&show_icons=true)
 
-![Matheus Reis' github stats](https://github-readme-stats.vercel.app/api?username=math-reis&theme=react&show_icons=true)
-
-![Matheus Reis' github stats](https://github-readme-stats.vercel.app/api?username=math-reis&theme=blueberry&show_icons=true)
 
