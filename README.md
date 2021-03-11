@@ -1,4 +1,4 @@
-## Hi there, welcome to my profile! :house:
+## Hi there, welcome to my profile!
 
 I'm Matheus, a Bachelor of Philosophy from Brazil passionate about technology. 
 
