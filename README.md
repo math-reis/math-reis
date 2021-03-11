@@ -1,10 +1,10 @@
-## Hi there, welcome to my profile! :wave:
+## Hi there, welcome to my profile! :house:
 
 I'm a Bachelor of Philosophy from Brazil passionate about technology. 
 
 I am currently 100% focused on developing my programming and development skills.
 
-### More about me:
+### More about my profile:
 
 ![Matheus Reis' github stats](https://github-readme-stats.vercel.app/api?username=math-reis&theme=default&show_icons=true) 
 
