@@ -4,8 +4,6 @@ I'm Matheus, a Bachelor of Philosophy from Brazil passionate about technology.
 
 I am currently 100% focused on developing my programming and development skills.
 
-![Matheus Reis' github stats](https://github-readme-stats.vercel.app/api?username=math-reis&theme=default&show_icons=true) 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=math-reis&theme=default)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anajuliabit/)](https://www.linkedin.com/in/matheus-grp/)
