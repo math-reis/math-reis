@@ -1,6 +1,8 @@
 ## Hi there, welcome to my profile! :wave:
 
-I'm a Bachelor of Philosophy from Brazil and I'm passionate about technology. I am currently 100% focused on developing my programming and development skills.
+I'm a Bachelor of Philosophy from Brazil passionate about technology. 
+
+I am currently 100% focused on developing my programming and development skills.
 
 ### More about me:
 
