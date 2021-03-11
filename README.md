@@ -1,5 +1,8 @@
 ## Hi, I'm Matheus! 
-I'm a 27 year old Software Engineer from Brazil and I'm passionate about technology, communities, and everything in-between. I love to learn and contribute in any and every possible way.
+
+I'm a 27 year old Bachelor of Philosophy from Brazil and I'm passionate about technology. I love to learn and contribute in any and every possible way.
+
+### More about me:
 
 ![Matheus Reis' github stats](https://github-readme-stats.vercel.app/api?username=math-reis&theme=default&show_icons=true) 
 
