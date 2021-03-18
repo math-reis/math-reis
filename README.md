@@ -6,8 +6,7 @@ I am currently 100% focused on improving my programming and development skills, 
 
 You are more than welcome to visit [My Portfolio Webpage](https://math-reis.github.io/), or get in touch via other means of contact: 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anajuliabit/)](https://www.linkedin.com/in/matheus-grp/) 
-
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anajuliabit/)](https://www.linkedin.com/in/matheus-grp/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mgrp.ufrgs@gmail.com)](mailto:mgrp.ufrgs@gmail.com)
 
 ### More about me and my profile:
@@ -18,6 +17,6 @@ You are more than welcome to visit [My Portfolio Webpage](https://math-reis.gith
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/math-reis)](https://github.com/math-reis)
 
-[![GitHub watchers](https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/watchers/)
+[![GitHub watchers](https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://github.com/math-reis)
 
-![Profile views](https://gpvc.arturio.dev/Naereen)
+![Profile views](https://github.com/math-reis)
