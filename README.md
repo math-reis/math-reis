@@ -6,6 +6,8 @@ I'm currently 100% focused on improving my programming and development skills, e
 
 You are more than welcome to visit my **[Portfolio Webpage](https://math-reis.github.io/)**, connect with me on **[LinkedIn](https://www.linkedin.com/in/matheus-grp/)**, and get in touch via **[e-mail](mailto:mgrp.ufrgs@gmail.com)**.
 
+![Profile views](https://gpvc.arturio.dev/math-reis)
+
 ### More about me and my profile:
 
 ![Matheus Reis' github stats](https://github-readme-stats.vercel.app/api?username=math-reis&theme=default&show_icons=true) 
