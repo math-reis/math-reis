@@ -14,9 +14,3 @@ You are more than welcome to visit [My Portfolio Webpage](https://math-reis.gith
 ![Matheus Reis' github stats](https://github-readme-stats.vercel.app/api?username=math-reis&theme=default&show_icons=true) 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=math-reis&theme=default)
-
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/math-reis)](https://github.com/math-reis)
-
-[![GitHub watchers](https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://github.com/math-reis)
-
-![Profile views](https://github.com/math-reis)
