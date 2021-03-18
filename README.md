@@ -11,5 +11,3 @@ You are more than welcome to visit my **[Portfolio Webpage](https://math-reis.gi
 ![Matheus Reis' github stats](https://github-readme-stats.vercel.app/api?username=math-reis&theme=default&show_icons=true) 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=math-reis&theme=default)
-
-![Profile views](https://gpvc.arturio.dev/math-reis)
