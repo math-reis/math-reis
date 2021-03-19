@@ -4,7 +4,7 @@ I am Matheus, a Bachelor of Philosophy from Brazil passionate about technology.
 
 I am currently 100% focused on improving my programming and development skills.
 
-Be my guest to **[visit my Portfolio](https://math-reis.github.io/)** webpage and **[connect with me on LinkedIn](https://www.linkedin.com/in/matheus-grp/)**.
+You are more than welcome to **[visit my Portfolio](https://math-reis.github.io/)** webpage and **[connect with me on LinkedIn](https://www.linkedin.com/in/matheus-grp/)**.
 
 <!-- ### More about me and my profile:
 
