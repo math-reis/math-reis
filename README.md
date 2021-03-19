@@ -2,7 +2,7 @@
 
 I'm Matheus, a Bachelor of Philosophy from Brazil passionate about technology. 
 
-I'm Currently 100% focused on improving my programming and development skills, especially those related to web design.
+I'm Currently 100% focused on improving my programming and development skills.
 
 **You are more than welcome to:**
 
