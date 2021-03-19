@@ -6,8 +6,8 @@ Currently I'm 100% focused on improving my programming and development skills, e
 
 You are more than welcome to:
 
-* connect with me on **[LinkedIn](https://www.linkedin.com/in/matheus-grp/)**;
 * visit my **[Portfolio Webpage](https://math-reis.github.io/)**;
+* connect with me on **[Linkedin](https://www.linkedin.com/in/matheus-grp/)**;
 * and get in touch via **[E-mail](mailto:mgrp.ufrgs@gmail.com)**.
 
 ### More about me and my profile:
