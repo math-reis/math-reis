@@ -2,13 +2,9 @@
 
 I'm Matheus, a Bachelor of Philosophy from Brazil passionate about technology. 
 
-I'm Currently 100% focused on improving my programming and development skills.
+Despite my backgroud education, today I'm Currently 100% focused on improving my programming and development skills.
 
 You are more than welcome to visit my **[Portfolio Webpage](https://math-reis.github.io/)** and connect with me on **[LinkedIn](https://www.linkedin.com/in/matheus-grp/)**.
-
-<!--* visit my **[Portfolio Webpage](https://math-reis.github.io/)**;
-<!--* connect with me on **[LinkedIn](https://www.linkedin.com/in/matheus-grp/)**;
-<!--* and get in touch via **[E-mail](mailto:mgrp.ufrgs@gmail.com)**.
 
 <!-- ### More about me and my profile:
 
