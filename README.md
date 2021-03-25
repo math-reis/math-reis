@@ -9,7 +9,7 @@ You are more than welcome to **[visit my Portfolio](https://math-reis.github.io/
 <br>
 
 <details>
- <summary>My skills experience (click to expand):</summary>
+ <summary>Expand to see my skills:</summary>
 
 ### Languages:
 
