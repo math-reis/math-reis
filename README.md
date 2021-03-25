@@ -7,8 +7,6 @@ I am currently 100% focused on improving my programming and development skills.
 You are more than welcome to **[visit my Portfolio](https://math-reis.github.io/)** and **[connect with me on LinkedIn](https://www.linkedin.com/in/matheus-grp/)**.
 
 <br>
-:alien:
-<br>
 
 <details>
  <summary>Expand to check my skills:</summary>
@@ -32,4 +30,7 @@ You are more than welcome to **[visit my Portfolio](https://math-reis.github.io/
 ### Others:
 
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img alt="WordPress" src="https://img.shields.io/badge/WordPress%20-%23117AC9.svg?&style=for-the-badge&logo=WordPress&logoColor=white"/>
+
 </details>
+
+:alien:
