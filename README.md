@@ -1,4 +1,4 @@
-## Hey there, welcome to my profile! :alien:
+## Hey there, welcome to my profile!
 
 I am Matheus, a Bachelor of Philosophy from Brazil passionate about technology. 
 
