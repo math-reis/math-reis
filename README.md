@@ -10,7 +10,7 @@ You are more than welcome to **[visit my Portfolio](https://math-reis.github.io/
 <br>
 
 <details>
- :alien:<summary>Expand to check my skills:</summary>
+ <summary>Expand to check my skills:</summary>
 
 ### Languages:
 
