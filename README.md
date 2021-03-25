@@ -22,7 +22,7 @@ You are more than welcome to **[visit my Portfolio](https://math-reis.github.io/
 
 <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
 
-_(Skills ordered according to my proficiency with them, from the best to the worst.)_
+_(Skills ordered according to my proficiency and confidence with them.)_
 
 <!-- ### More about me and my profile:
 
