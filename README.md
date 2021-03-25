@@ -28,8 +28,7 @@ You are more than welcome to **[visit my Portfolio](https://math-reis.github.io/
 
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img alt="WordPress" src="https://img.shields.io/badge/WordPress%20-%23117AC9.svg?&style=for-the-badge&logo=WordPress&logoColor=white"/>
 
-<!-- ### More about me and my profile:
-
-![Matheus Reis' github stats](https://github-readme-stats.vercel.app/api?username=math-reis&theme=default&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=math-reis&theme=default) 
+<details>
+ <summary>Summary Goes Here</summary>
+ ...this is hidden, collapsable content...
+</details>
