@@ -6,10 +6,10 @@ I am currently 100% focused on improving my programming and development skills.
 
 You are more than welcome to **[visit my Portfolio](https://math-reis.github.io/)** and **[connect with me on LinkedIn](https://www.linkedin.com/in/matheus-grp/)**.
 
-### Experience:
+### Skills and tools:
 
 <details>
- <summary>Expand to check my skills.</summary>
+ <summary>Expand to check more.</summary>
 
 ### Languages:
 
