@@ -2,7 +2,7 @@
 
 ---
 
-I am Matheus, a Bachelor of Philosophy and majoring in **Information Security** from Brazil.
+I am Matheus, a Bachelor of Philosophy and majoring in **Information Security**.
 
 I am currently 100% focused on improving my programming and development skills.
 
