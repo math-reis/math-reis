@@ -17,8 +17,8 @@ You are more than welcome to **[visit my Portfolio](https://math-reis.github.io/
 ---
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=math-reis&show_icons=true" />
+  <img align="center" justify="center" src="https://github-readme-stats.vercel.app/api?username=math-reis&show_icons=true" />
 </a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=math-reis&layout=compact&langs_count=8" />
+  <img align="center" justify="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=math-reis&layout=compact&langs_count=8" />
 </a>
