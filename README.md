@@ -1,10 +1,11 @@
 ### :wave: Hey there, welcome to my profile!
 
 ---
+I am Matheus, a 27 yo Brazilian developer. 
 
-I am Matheus, a Bachelor of Philosophy and majoring in **Information Security**.
+I hold a Bachelor degree in Philosophy, and currently I am majoring in **Information Security**.
 
-I am currently 100% focused on improving my programming and development skills.
+Nowadays I am 100% focused on improving my programming and development skills.
 
 You are more than welcome to **[visit my Portfolio](https://math-reis.github.io/)** and **[connect with me on LinkedIn](https://www.linkedin.com/in/matheus-grp/)**.
 
