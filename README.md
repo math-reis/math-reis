@@ -1,9 +1,10 @@
 ### :wave: Hey there, welcome to my profile!
 
 ---
-I am Matheus, a 27 yo Brazilian developer. 
 
-I hold a Bachelor degree in Philosophy, and currently I am majoring in **Information Security**.
+I am Matheus, a Brazilian developer and technology enthusiast. 
+
+I have a bachelor's degree in Philosophy, and currently I am majoring in **Information Security**.
 
 Nowadays I am 100% focused on improving my programming and development skills.
 
