@@ -17,26 +17,8 @@ You are more than welcome to **[visit my Portfolio](https://math-reis.github.io/
 ---
 
 <a href="#">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=math-reis&layout=compact&langs_count=8" />
-</a>
-<a href="#">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=math-reis&show_icons=true" />
 </a>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=math-reis&langs_count=10)](https://github.com/math-reis/github-readme-stats)
-
-![Matheus Reis' GitHub stats](https://github-readme-stats.vercel.app/api?username=math-reis&show_icons=true)
-
-
-
-
-
-<center>
-<table>
-    <tr>
-        <td><img src="https://github-readme-stats.vercel.app/api?username=math-reis&theme=dracula"/></td>
-        <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=math-reis&hide=html&layout=compact&theme=dracula" /></td>
-    </tr>   
-</table>
-</center>  
+<a href="#">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=math-reis&layout=compact&langs_count=8" />
+</a>
