@@ -1,4 +1,4 @@
-### Hey there, welcome to my profile!
+### :wave: Hey there, welcome to my profile!
 
 ---
 
