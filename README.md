@@ -16,10 +16,10 @@ You are more than welcome to **[visit my Portfolio](https://math-reis.github.io/
 
 ---
 
-<a href="https://github.com/math-reis/github-readme-stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=math-reis&langs_count=10" />
+<a href="#">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=math-reis&langs_count=5" />
 </a>
-<a href="https://github.com/math-reis/github-readme-stats">
+<a href="#">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=math-reis&show_icons=true" />
 </a>
 
