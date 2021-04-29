@@ -4,7 +4,7 @@
 
 I am Matheus, a Brazilian developer and technology enthusiast. 
 
-I have a bachelor's degree in Philosophy, and currently I am majoring in **Information Security**.
+I have a bachelor's degree in Philosophy, and currently I am majoring in Information Security.
 
 At the moment I am 100% focused on improving my programming skills, especially those related to web development.
 
