@@ -17,8 +17,8 @@ You are more than welcome to **[visit my Portfolio](https://math-reis.github.io/
 <center>
 <table>
     <tr>
-        <td><img width="480px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=math-reis&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="480px" align="left" src="https://github-readme-stats.vercel.app/api?username=math-reis&theme=buefy"/></td>
+        <td><img width="480px" align="top src="https://github-readme-stats.vercel.app/api/top-langs/?username=math-reis&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="480px" align="top" src="https://github-readme-stats.vercel.app/api?username=math-reis&theme=buefy"/></td>
     </tr>   
 </table>
 </center>  
