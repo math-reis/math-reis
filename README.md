@@ -16,6 +16,14 @@ You are more than welcome to **[visit my Portfolio](https://math-reis.github.io/
 
 ---
 
+<a href="https://github.com/math-reis/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=math-reis&langs_count=10" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=math-reis&langs_count=10)](https://github.com/math-reis/github-readme-stats)
 
 ![Matheus Reis' GitHub stats](https://github-readme-stats.vercel.app/api?username=math-reis&show_icons=true)
