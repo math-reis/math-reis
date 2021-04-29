@@ -2,9 +2,7 @@
 
 ---
 
-I am Matheus, a Bachelor of Philosophy from Brazil passionate about technology. 
-
-Nowadays I am majoring in **Information Security**.
+I am Matheus, a Bachelor of Philosophy from Brazil passionate about technology. Nowadays I am majoring in **Information Security**.
 
 I am currently 100% focused on improving my programming and development skills.
 
