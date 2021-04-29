@@ -17,7 +17,7 @@ You are more than welcome to **[visit my Portfolio](https://math-reis.github.io/
 ---
 
 <a href="#">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=math-reis&layout=compact&langs_count=3" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=math-reis&layout=compact&langs_count=5" />
 </a>
 <a href="#">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=math-reis&show_icons=true" />
