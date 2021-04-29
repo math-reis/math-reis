@@ -6,7 +6,7 @@ I am Matheus, a Brazilian developer and technology enthusiast.
 
 I have a bachelor's degree in Philosophy, and currently I am majoring in **Information Security**.
 
-Nowadays I am 100% focused on improving my programming skills, especially those related to web development.
+At the moment I am 100% focused on improving my programming skills, especially those related to web development.
 
 You are more than welcome to **[visit my Portfolio](https://math-reis.github.io/)** and **[connect with me on LinkedIn](https://www.linkedin.com/in/matheus-grp/)**.
 
