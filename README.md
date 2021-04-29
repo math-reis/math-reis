@@ -16,7 +16,7 @@ You are more than welcome to **[visit my Portfolio](https://math-reis.github.io/
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=math-reis&langs_count=8)](https://github.com/math-reis/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=math-reis&langs_count=10)](https://github.com/math-reis/github-readme-stats)
 
 
 
