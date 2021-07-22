@@ -1,8 +1,8 @@
 ### :wave: Hey there, welcome to my profile!
 
-I'm Matheus, a 27 year old Brazilian **Developer**.
+I'm Matheus, a 27-year-old Brazilian **Developer**.
 
-I study **Information Security**, and I work as **Software Developer** at Banrisul as an intern.
+I study **Information Security** and work as an intern **Software Developer** at the largest bank of Southern Brazil, Banrisul. 
 
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=math-reis&show_icons=true" />
