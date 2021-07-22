@@ -1,4 +1,4 @@
-### :wave: Hey there, welcome to my profile!
+### Hey there, welcome to my profile!
 
 I'm Matheus, a 27-year-old Brazilian **Developer**.
 
