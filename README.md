@@ -2,7 +2,7 @@
 
 I'm Matheus, a 27 year old Brazilian **Software Developer**.
 
-I hold a degree in **Information Security**, and currently I work as a **Software Developer** at Banrisul as an intern.
+I study **Information Security**, and currently I work as **Software Developer** at Banrisul as an intern.
 
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=math-reis&show_icons=true" />
