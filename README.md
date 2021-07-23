@@ -1,6 +1,6 @@
 ### Hey there, welcome to my profile!
 
-I'm Matheus, a 27-year-old Brazilian **Developer**.
+I'm Matheus, a 27-year-old Brazilian Developer.
 
 I study **Information Security**, and I work as a **Software Developer** intern at Banrisul, the largest bank of Southern Brazil. 
 
