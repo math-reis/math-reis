@@ -4,8 +4,8 @@ I'm Matheus, a **Software Developer** from Brazil.
 
 **More about me:**
 
-- 🏢 I work as a Software Developer at Banrisul.
 - 📚 I study Information Security at Universidade Paulista.
+- 🏢 I work as a Software Developer at Banrisul.
 - 💻 I am passionate about new technologies.
 - ✉️ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/matheus-grp/).
 
