@@ -1,6 +1,9 @@
-### Hey there, welcome to my profile!
+**Hey, welcome to my profile!** 👋
 
-I'm Matheus, a 27-year-old Brazilian **Developer**.
+I'm Matheus, a **Software Developer** from Brazil.
+
+**More about me:**
+
 
 I study **Information Security**, and I work as a **Software Developer** intern at Banrisul, the largest bank of Southern Brazil. 
 
