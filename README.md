@@ -1,11 +1,12 @@
 **Hey, welcome to my profile!** 👋
 
+* * *
+
 I'm Matheus, a **Software Developer** from Brazil.
 
 **More about me:**
-
-
-I study **Information Security**, and I work as a **Software Developer** intern at Banrisul, the largest bank of Southern Brazil. 
+- 🏢 I work as a Software Developer at Banrisul.
+- 📚 I study Information Security at Universidade Paulista.
 
 ---
 
