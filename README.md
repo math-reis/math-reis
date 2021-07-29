@@ -1,6 +1,4 @@
-**Hey, welcome to my profile!** 👋
-
-* * *
+## Hey, welcome to my profile! 👋
 
 I'm Matheus, a **Software Developer** from Brazil.
 
@@ -8,7 +6,7 @@ I'm Matheus, a **Software Developer** from Brazil.
 - 🏢 I work as a Software Developer at Banrisul.
 - 📚 I study Information Security at Universidade Paulista.
 
----
+* * *
 
 Programming languages:
 
