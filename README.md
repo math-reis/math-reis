@@ -24,4 +24,4 @@ I'm Matheus, a **Software Developer** from Brazil.
 - 📚 I study Information Security at Universidade Paulista.
 - ✉️ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/matheus-grp/).
 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=math-reis&layout=compact"
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=math-reis&layout=compact"/>
