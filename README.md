@@ -2,12 +2,6 @@
 
 I'm Matheus, a **Software Developer** from Brazil.
 
-**More about me:**
-
-- 🏢 I work as a Software Developer intern at Banrisul.
-- 📚 I study Information Security at Universidade Paulista.
-- ✉️ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/matheus-grp/).
-
 <p align="center">
   <a href="https://github.com/math-reis/github-readme-stats">
     <img
@@ -23,3 +17,9 @@ I'm Matheus, a **Software Developer** from Brazil.
     />
   </a>
 </p>
+
+**More about me:**
+
+- 🏢 I work as a Software Developer intern at Banrisul.
+- 📚 I study Information Security at Universidade Paulista.
+- ✉️ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/matheus-grp/).
