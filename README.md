@@ -5,7 +5,7 @@ I'm Matheus, a **Software Developer** from Brazil.
 <p align="center">
   <a href="https://github.com/math-reis/github-readme-stats">
     <img
-      align="center"
+      align="center" color="black"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=math-reis&layout=compact"
     />
   </a>
