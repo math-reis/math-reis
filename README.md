@@ -11,5 +11,6 @@ I'm Matheus, a **Software Developer** from Brazil.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=math-reis&layout=compact&langs_count=10)](https://github.com/math-reis/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=math-reis)](https://github.com/math-reis/github-readme-stats)
+[![Matheus's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=math-reis)](https://github.com/anuraghazra/github-readme-stats)
+
 
