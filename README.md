@@ -9,4 +9,4 @@ I'm Matheus, a **Software Developer** from Brazil.
 - 💻 I am passionate about new technologies.
 - ✉️ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/matheus-grp/).
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=math-reis&layout=compact&langs_count=10)](https://github.com/math-reis/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=math-reis&langs_count=10)](https://github.com/math-reis/github-readme-stats)
