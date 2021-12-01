@@ -1,6 +1,6 @@
 ## Hey, welcome to my profile! 👋
 
-I'm Matheus, a **Software Developer** from Brazil.
+I'm Matheus, a **Software Developer** from Brazil
 
 **More about me:**
 
