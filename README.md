@@ -4,7 +4,7 @@ I'm Matheus, a **Systems Analyst** from Brazil.
 
 **More about me:**
 
-- 🏢 I work as a Systems Analyst at Valid.
+- 🏢 I work as a Systems Analyst at Banrisul.
 - 📚 I study Software Engineering at Universidade do Vale do Rio dos Sinos.
 - 📚 I study Information Security at Universidade Paulista.
 - 💻 I am passionate about new technologies.
